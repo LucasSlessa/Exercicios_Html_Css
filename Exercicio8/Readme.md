@@ -24,4 +24,6 @@
 
 ##### Muito Obrigado!!
 
+>favicon utlizado:
 <img src="imagens/ICONEPNG.png"  alt="favicon">
+>nehum direiro de imagem foi violado
