@@ -1,0 +1,41 @@
+# Sexto Exercicio
+
+## Oque Abordamos aqui
+
+### Neste exercicio Aprendemos Sobre Formataçoes de Textos
+#### usamos as seguintes tags
+
+<h1>Formataçoes de texto</h1>
+
+    <h2>negrito/destaque</h2>
+        <p>nessa frase, temos um <b>termo em negrito</b> Usando a TAG b porem nao seguindo normas semanticas</p>
+        <p>nessa frase, temos um <strong>Termo em Destaque</strong> usando a tag strong dando imperatividade pra nossa frase </p>
+    
+    <h2>Itálico/enfase</h2>
+        <p><strong>nessa frase</strong>, temos um <i>Termo em italico</i> usando a TAG i fora dos padroes de semantica</p>  
+        <P><strong>nessa frase</strong>,temos um <em> Termo em enfase</em> usando a tag em</P>
+
+    <h2>Testo Marcado</h2>
+
+        <p>nessa frase, <mark>temos um texto marcado</mark> usando a tag mark</p>
+        <p>nessa frase, <mark style="background-color: rgb(77, 77, 233);">temos outro testo marcado </mark>porem em um style pontual diferente</p>
+
+    <h2>Texto Grande e Pequeno</h2>
+        <p>nessa frase,temos um texto <big>Grande</big> e <small>Pequeno</small> usando as tags small e big (porem big nao existe mais)</p>
+
+    <h2>Texto Deletado</h2>
+        <p>podemos inserir um texto que <del>deve ser excluido</del> mais nao considerado</p>
+
+    <h2>Texto Inserido</h2>
+        <p>podemos marcar um <ins>texto como inserido</ins> pra o dar enfase</p>
+
+    <h2>Texto sobrescrito</h2>
+        <p>Usado pra expressoes matematicas como x<sup>20+3</sup></p>
+
+    <h2>Texto Subscrito</h2>
+        <p>usado pra expressoes matematicas como log<sub>x+2</sub></p>
+        
+
+ #### Importante!!!
+ > Todas imagens foram tratadas pra otimização de tamanho. <br>
+ > Todas imagens possuem direitos autorais livres pra serem usadas.
