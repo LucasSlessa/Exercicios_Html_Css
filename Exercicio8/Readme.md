@@ -22,6 +22,5 @@
 > Dentro de todas as listas utlizamos o comando **li** para adicionar os itens.
 
 
-##### Muito Obrigado!!
-
+##### Muito Obrigado
 <img src="imagens/ICONEPNG.png"  alt="favicon">
