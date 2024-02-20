@@ -1,6 +1,6 @@
 # Quarto Exercicio
 
-## Oque Abrodamos aqui
+## Oque Abordamos aqui
 
 ### Neste exercicio adicionamos um FAVICOM pra nossa pagina
 
