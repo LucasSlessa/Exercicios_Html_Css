@@ -10,4 +10,4 @@
 
 > Caso deseje acompanhar e tenha duvidas em algum exercicio, faça um fork do repositorio e em faça seus commits em uma branch de duvidas logo apos faça um pull request.
 
-**Vamos pra cima**
+**Vamos pra cima!!!**
