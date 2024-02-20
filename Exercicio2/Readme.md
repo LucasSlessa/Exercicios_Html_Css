@@ -1,6 +1,6 @@
 # Segundo Exercicio
 
-## Oque Abrodamos aqui
+## Oque Abordamos aqui
 
 - [x] Neste segundo exercico aprendemos a fazer quebras de paragrafo com &lt;br&gt;
 

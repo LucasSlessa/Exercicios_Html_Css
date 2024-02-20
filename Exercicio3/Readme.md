@@ -1,6 +1,6 @@
 # Terceiro Exercicio
 
-## Oque Abrodamos aqui
+## Oque Abordamos aqui
 
 ### Neste terceiro exercicio Aprendemos a inserir imagens em nossa pagina html de duas maneira
 
