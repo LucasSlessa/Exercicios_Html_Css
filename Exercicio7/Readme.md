@@ -12,3 +12,4 @@
 <hr>
 
 ##### Muito Obrigado
+<img src="https://github.com/LucasSlessa/Exercicios_Html_Css/assets/143228674/a0a3188d-0ada-45af-9264-6a4c701a85d0" alt="imagens">
