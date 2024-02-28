@@ -26,4 +26,4 @@ apos isso pronto temos uma imagen dinamica.
 
 ##### Muito Obrigado
 <img src="imagens/g.gif"  alt="favicon">
->nehum direiro de imagem foi violado
+

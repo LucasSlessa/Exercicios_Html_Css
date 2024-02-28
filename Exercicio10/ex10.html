@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <title>Adicionando audio e video</title>
+    <style>
+        body, html {
+          margin: 0;
+          padding: 0;
+          height: 100%;
+          overflow: hidden;
+        }
+        #video-background {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            width: 100vw; /* Largura igual à largura da viewport */
+            height: 100vh; /* Altura igual à altura da viewport */
+            z-index: -1000;
+            object-fit: cover;
+            background-attachment: fixed; 
+        }
+        h1{
+          font-size: 100px;
+          text-align: center;
+          padding-top: 15%;
+        }
+        
+        .hederpos{
+          padding-top: 0.1%;
+          
+        }
+        .texto-movido {
+          padding-top: 5px; /* move o texto para baixo */
+          padding-bottom: 5px;
+          padding-left: 40px; /* move o texto para a direita */
+      }
+      .hedtext{
+        
+        font-size: 20px;
+        font-weight: 500;
+        
+
+      }
+      </style>
+</head>
+<body >
+  <div class="container-fluid mt12">
+    <div class="row hederpos">
+      <div class="col  hedtext">Inicio</div>
+      <div class="col  hedtext">Sobre</div>
+      <div class="col  hedtext">Contato</div>
+    </div>
+  </div>
+  
+    <h1>Breath</h1>
+    <audio  preload="metadata" autoplay loop>
+        <source src="Audios/Nature Nurture - Quincas Moreira.mp3" type="audio/mpeg">
+        <source src="Audios/Nature Nurture - Quincas Moreira.ogg" type="audio/ogg">
+        <source src="Audios/Nature Nurture - Quincas Moreira.wav" type="audio/wav">
+    </audio>
+
+  
+
+    <video autoplay loop muted id="video-background">
+        <source src="Videos/swiming.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+
+</body>
+</html>
