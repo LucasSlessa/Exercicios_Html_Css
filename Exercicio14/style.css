@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+div{
+
+    display: inline-block;
+
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+div > p#muscle{
+    display: none;
+}
+
+div#d1:hover > p#muscle{
+    display: block;
+    font-size: 70px;
+}
+
+div#d1:hover{
+    color: aliceblue;
+    background-color: black;
+    width: 210px;
+    height: 210px;
+
+
+}
+
